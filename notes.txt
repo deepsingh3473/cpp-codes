@@ -1,0 +1,2 @@
+cin.get() -> used to take inputs for space, tab, enter
+fill_n(arr, size, value) -> used to fill the array with the same value other than 0
